@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "620026452194",
+    "project_id": "chatapp-7b1f2",
+    "storage_bucket": "chatapp-7b1f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620026452194:android:fb7065a017365046a9a6bb",
+        "android_client_info": {
+          "package_name": "com.example.hust_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620026452194-d0odt64m64p7ekkbhtq119bhs6fhme49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2szjKDOWtrZhJgyoncimaoFtRjA1LyOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620026452194-d0odt64m64p7ekkbhtq119bhs6fhme49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620026452194-hbqtgdoutm0t3aobf09urdcoogofa6js.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bostrap.hustChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
